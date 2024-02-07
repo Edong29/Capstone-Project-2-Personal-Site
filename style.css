@@ -1,0 +1,43 @@
+#title{
+    background-color: #C4DFDF;
+}
+
+#skills{
+    background-color: #D2E9E9;
+}
+
+#contact{
+    background-color: #E3F4F4;
+}
+
+#footer{
+    background-color: #F8F6F4;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.my-picture{
+    width: 250px;
+    border-radius: 50%;
+}
+
+.picture-container{
+    display: flex;
+    justify-content: center;
+}
+
+#programming-image{
+    height: 150px;
+}
+
+#math-image{
+    height: 150px;
+}
+
+.svg-container{
+    display: flex;
+    justify-content: center;
+}
